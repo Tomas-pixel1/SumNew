@@ -1,7 +1,7 @@
 # SumNew
 Repository that sums.
 
-#Prueba!
+# Prueba!
 
 Aqui se usa lenguaje de `Markdown`.
 
